@@ -23,10 +23,15 @@ It supports basic arithmetic operations and calculations, styled with clean, mod
 ## File Structure
 
 calculator-app/
+
 |------------ index.html #Main HTML file
+
 |------------ style.css # CSS styling
+
 |------------ script.js # JavaScript logic
+
 |------------ README.md # Project documentation
+
 
 ## Tech Stack
 
