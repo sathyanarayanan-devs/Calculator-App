@@ -1,16 +1,16 @@
-let display = document.getElementById("display");
+let screen = document.getElementById("display");
 function display(value){
-    display.value += value;
+    screen.value += value;
 }
 
 function Calculate(){
     try{
-    display.value = eval(display.value);
+    screen.value = eval(screen.value);
     } catch {
-        display.value = "Error";
+        screen.value = "Error";
     }
 }
 
 function Clear(){
-    display.value = "";
+    screen.value = "";
 }
