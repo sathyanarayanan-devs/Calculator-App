@@ -1,4 +1,4 @@
-##Simple Calculator
+## Simple Calculator
 
 A **simple calculator** built with **HTML, CSS, and JavaScript**
 It supports basic arithmetic operations and calculations, styled with clean, modern UI.
