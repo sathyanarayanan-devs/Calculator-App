@@ -21,17 +21,13 @@ It supports basic arithmetic operations and calculations, styled with clean, mod
 2. click the buttons to perform calculatons.
 
 ## File Structure
-
+```text
 calculator-app/
-
 |------------ index.html #Main HTML file
-
 |------------ style.css # CSS styling
-
 |------------ script.js # JavaScript logic
-
 |------------ README.md # Project documentation
-
+```
 
 ## Tech Stack
 
