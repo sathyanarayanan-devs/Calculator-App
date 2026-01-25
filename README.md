@@ -45,4 +45,6 @@ calculator-app/
 
 ## Author
 
-**Sathyanarayanan S** - Aspiring Full-Stack Development.
+**Sathyanarayanan S** 
+- Aspiring Full-Stack Development.
+- GitHub : https://github.com/sathyanarayanan-devs
